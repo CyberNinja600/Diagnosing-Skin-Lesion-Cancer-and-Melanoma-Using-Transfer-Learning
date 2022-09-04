@@ -62,8 +62,7 @@ Fig. 1. VGG19 block diagram
 >
 > III\. DATASET DESCRIPTION
 >
-> ![](vertopal_b912f6be215244f9ba067bbe555e9741/media/image2.png){width="3.9361100174978128in"
-> height="1.6888877952755905in"}
+> ![Alt text](https://github.com/CyberNinja600/Diagnosing-Skin-Lesion-Cancer-and-Melanoma-Using-Transfer-Learning/blob/39f38046d132e3ac3063d6cbf1803f52748d48f5/image2.png?raw=true "Title")
 >
 > Fig. 2. Sample images of HAM10000
 >
@@ -79,15 +78,13 @@ seven different types of skin cancer. Some sample images of skin cancer
 types from HAM10000 are represented in Fig .2 The frequency of images
 from seven classes are shown in fig.3
 
-> ![](vertopal_b912f6be215244f9ba067bbe555e9741/media/image3.png){width="3.15in"
-> height="2.3986111111111112in"}
+> ![Alt text](https://github.com/CyberNinja600/Diagnosing-Skin-Lesion-Cancer-and-Melanoma-Using-Transfer-Learning/blob/39f38046d132e3ac3063d6cbf1803f52748d48f5/image3.png?raw=true "Title")
 >
 > Fig. 3. Frequency of images from each class
 >
 > IV\. EXPERIMENTAL RESULTS AND DISCUSSION
 
-![](vertopal_b912f6be215244f9ba067bbe555e9741/media/image4.png){width="3.5430555555555556in"
-height="1.4222222222222223in"}
+> ![Alt text](https://github.com/CyberNinja600/Diagnosing-Skin-Lesion-Cancer-and-Melanoma-Using-Transfer-Learning/blob/39f38046d132e3ac3063d6cbf1803f52748d48f5/image4.png?raw=true "Title")
 
 Fig. 4. Classification Report
 
@@ -99,13 +96,11 @@ accuracy defined in equation (1) is the ratio of the model's correct
 predictions to the total number of predictions. Precision is used to
 determine the proportion of
 
-![](vertopal_b912f6be215244f9ba067bbe555e9741/media/image5.png){width="3.9361100174978128in"
-height="2.1680555555555556in"}
+> ![Alt text](https://github.com/CyberNinja600/Diagnosing-Skin-Lesion-Cancer-and-Melanoma-Using-Transfer-Learning/blob/39f38046d132e3ac3063d6cbf1803f52748d48f5/image5.png?raw=true "Title")
 
 Fig. 5. Model Accuracy Curve
 
-![](vertopal_b912f6be215244f9ba067bbe555e9741/media/image6.png){width="3.9361100174978128in"
-height="1.9388888888888889in"}
+> ![Alt text](https://github.com/CyberNinja600/Diagnosing-Skin-Lesion-Cancer-and-Melanoma-Using-Transfer-Learning/blob/39f38046d132e3ac3063d6cbf1803f52748d48f5/image6.png?raw=true "Title")
 
 Fig. 6. Model Loss Curve
 
