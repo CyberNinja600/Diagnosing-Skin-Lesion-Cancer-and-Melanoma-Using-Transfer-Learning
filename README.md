@@ -49,8 +49,8 @@ comprehension of the characteristics of a picture in terms of form,
 color, and structure. The extremely deep VGG19 has been trained on a
 massive amount of different
 
-> ![](vertopal_b912f6be215244f9ba067bbe555e9741/media/image1.png){width="3.9375in"
-> height="1.9916655730533683in"}
+> ![Alt text](https://github.com/CyberNinja600/Diagnosing-Skin-Lesion-Cancer-and-Melanoma-Using-Transfer-Learning/blob/b131adc096eca3868db6577d6c71b8344c78bc0f/image1.png?raw=true "Title")
+
 
 Fig. 1. VGG19 block diagram
 
